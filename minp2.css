@@ -1,0 +1,146 @@
+
+h1{
+   
+    color: blue;
+    text-align: center;
+    
+
+}
+h3
+{
+    text-align: center;
+}
+
+section
+{
+   background-image: url("https://luxcity.com/storage/photos/7/blogs/facilities-of-a-5-star-hotel-1.jpg");
+   height: 800px;
+   justify-items: center;
+   position: static;
+   width: 1520px;
+}
+button
+{
+    height: 40px;
+    width: 80px;
+    border-radius: 50px;
+    background-color: aqua;
+    position: absolute;
+    left: 40%;
+}
+#soul
+{
+   text-align: center;
+   color: black;
+   float: left;
+   text-decoration: underline;
+}
+p1
+{
+    text-align: center;
+}
+.know-more
+{
+    height: 40px;
+    width: 80px;
+    border-radius: 50px;
+    background-color:white;
+}
+
+#home
+{
+   text-align: center;
+   text-decoration: underline;
+   color: black ;
+}
+.aminities
+{
+    text-align: center;
+    justify-items: center;
+    margin-left: 500px;
+    align-items: center;
+    position: absolute;
+    top: 145%;
+    left: 35%;
+    width: 35%;
+    height: 15%;
+}
+#lol
+{
+    width: 140px;
+    position: absolute;
+    left: 25%;
+}
+.form
+{
+    position: absolute;
+    left: 20%;
+}
+.intro
+{
+    position: absolute;
+    top: 50%;
+    height: 15%;
+    left: 30%;
+}
+.Room
+{
+    position: absolute;
+    top: 178%;
+}
+#room
+{
+    position: absolute;
+    left: 460px;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+img
+{
+    position: absolute;
+    height: 60%;
+    top: 195%;
+    left: 65%;
+    width: 35%;
+
+}
+.roman
+{
+   padding-left: 230px;
+}
+.form-group
+{
+    position: absolute;
+    top: 270%;
+    left: 40%;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 50px;
+    width: max-content;
+}
+#motto
+{
+    text-align: center;
+    color: black;
+}
+.heading
+{
+    position: absolute;
+    top: 260%;
+    left: 40%;
+    color: black;
+}
+#sob
+{
+    color: red;
+}
+#bot
+{
+    position: absolute;
+    top: 310%;
+    left: 90%;
+    background-color: red;
+    color: white;
+    width: 110px;
+}
